@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./3ayel-dev.gif" height="290px" align="right" />
+<img  src="./3ayel-dev.gif" height="200px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://google.com/)**
 
