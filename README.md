@@ -1,4 +1,3 @@
-- ✨ **Visitors Counter :** ![Visitor Count](https://profile-counter.glitch.me/3ayel-dev/count.svg)
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="20px"></h1>
 
@@ -38,6 +37,7 @@
 </p>
 
 ## 📊 My GitHub Data:
+- ✨ **Visitors Counter :** ![Visitor Count](https://profile-counter.glitch.me/3ayel-dev/count.svg) 
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=3ayel-dev&show_icons=true&theme=radical" />
